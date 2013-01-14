@@ -1,2 +1,2 @@
 [config]
-command = simplesleep.exe 2000 4000 6000 20000
+command = simplesleep.exe 2000 4000 6000 30000
